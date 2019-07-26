@@ -2838,6 +2838,13 @@ footer h4.h05::after {
   padding-top: 9.6rem;
   padding-bottom: 3rem;
 }
+.rotateimg180 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
 .footer-main ul {
   font-size: 1.5rem;
   margin-left: 0;
