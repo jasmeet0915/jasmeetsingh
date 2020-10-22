@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jasmeet Singh</title>
+    <link>https://jasmeet0915.github.io/</link>
+    <description>Recent content on Jasmeet Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://jasmeet0915.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artworks coming Soon</title>
+      <link>https://jasmeet0915.github.io/artworks/</link>
+      <pubDate>Fri, 23 Oct 2020 04:30:23 +0530</pubDate>
+      
+      <guid>https://jasmeet0915.github.io/artworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts Coming Soon</title>
+      <link>https://jasmeet0915.github.io/posts/</link>
+      <pubDate>Fri, 23 Oct 2020 04:30:12 +0530</pubDate>
+      
+      <guid>https://jasmeet0915.github.io/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://jasmeet0915.github.io/projects/</link>
+      <pubDate>Fri, 23 Oct 2020 03:34:59 +0530</pubDate>
+      
+      <guid>https://jasmeet0915.github.io/projects/</guid>
+      <description>S.T.A.R: Satellite Trajectory Animating &amp;amp; Rendering Space | Simulation | Orbital Mechanics | Blender | Python
+  This project is an attempt at creating cool looking yet &amp;lsquo;Scientifically Correct Orbital Simulations&amp;rsquo; for any satellite you want using Blender and Python. Currently this project simulates around 340 Starlink Satellites launched by SpaceX using a simple 2-body interaction between the Earth &amp;amp; Satellite.
+The future iterations of the project will also take into account various perturbations like the oblateness of Earth, atmospheric drag, gravitational effect of Jupiter etc.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jasmeet0915.github.io/about/</link>
+      <pubDate>Fri, 23 Oct 2020 02:31:45 +0530</pubDate>
+      
+      <guid>https://jasmeet0915.github.io/about/</guid>
+      <description>Hello there, I am Jasmeet Singh, an Electronics Student from New Delhi. Driven by the concept of Project-Based Learning, I like to get my hands dirty in projects, be it Hardware or Sofware.
+Having a keen interest in Astrophysics and Particle Physics I would love to use my knowledge to enhance Space Exploration and help humanity transition to becoming an Intergalactic Civilization.</description>
+    </item>
+    
+  </channel>
+</rss>
